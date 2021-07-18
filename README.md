@@ -37,7 +37,7 @@ Mobile View:
 ### Links
 
 - Solution URL: [https://github.com/vandnasharma26/Fylo-data-stoarge-component]
-- Live Site URL: [https://github.com/vandnasharma26/Fylo-data-stoarge-component/]
+- Live Site URL: [https://vandnasharma26.github.io/Fylo-data-stoarge-component/]
 
 ## My process
 
